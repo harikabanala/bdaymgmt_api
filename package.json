@@ -1,0 +1,19 @@
+{
+  "name": "bdaymgmt_api",
+  "version": "1.0.0",
+  "description": "This project contains birthday management features like crud operations on members, notifications, mails, messages implemented with Nodejs+Express+Sequelize+Postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harikabanala/bdaymgmt_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harikabanala/bdaymgmt_api/issues"
+  },
+  "homepage": "https://github.com/harikabanala/bdaymgmt_api#readme"
+}
